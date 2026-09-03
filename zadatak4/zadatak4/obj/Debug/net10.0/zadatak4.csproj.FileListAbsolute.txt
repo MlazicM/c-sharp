@@ -1,0 +1,14 @@
+D:\programiranje\C#\zadatak4\zadatak4\bin\Debug\net10.0\zadatak4.exe
+D:\programiranje\C#\zadatak4\zadatak4\bin\Debug\net10.0\zadatak4.deps.json
+D:\programiranje\C#\zadatak4\zadatak4\bin\Debug\net10.0\zadatak4.runtimeconfig.json
+D:\programiranje\C#\zadatak4\zadatak4\bin\Debug\net10.0\zadatak4.dll
+D:\programiranje\C#\zadatak4\zadatak4\bin\Debug\net10.0\zadatak4.pdb
+D:\programiranje\C#\zadatak4\zadatak4\obj\Debug\net10.0\zadatak4.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranje\C#\zadatak4\zadatak4\obj\Debug\net10.0\zadatak4.AssemblyInfoInputs.cache
+D:\programiranje\C#\zadatak4\zadatak4\obj\Debug\net10.0\zadatak4.AssemblyInfo.cs
+D:\programiranje\C#\zadatak4\zadatak4\obj\Debug\net10.0\zadatak4.csproj.CoreCompileInputs.cache
+D:\programiranje\C#\zadatak4\zadatak4\obj\Debug\net10.0\zadatak4.dll
+D:\programiranje\C#\zadatak4\zadatak4\obj\Debug\net10.0\refint\zadatak4.dll
+D:\programiranje\C#\zadatak4\zadatak4\obj\Debug\net10.0\zadatak4.pdb
+D:\programiranje\C#\zadatak4\zadatak4\obj\Debug\net10.0\zadatak4.genruntimeconfig.cache
+D:\programiranje\C#\zadatak4\zadatak4\obj\Debug\net10.0\ref\zadatak4.dll
