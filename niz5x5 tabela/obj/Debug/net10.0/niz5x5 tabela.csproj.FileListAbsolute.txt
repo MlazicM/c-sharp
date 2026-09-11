@@ -1,0 +1,15 @@
+D:\programiranje\C#\niz5x5 tabela\bin\Debug\net10.0\niz5x5 tabela.exe
+D:\programiranje\C#\niz5x5 tabela\bin\Debug\net10.0\niz5x5 tabela.deps.json
+D:\programiranje\C#\niz5x5 tabela\bin\Debug\net10.0\niz5x5 tabela.runtimeconfig.json
+D:\programiranje\C#\niz5x5 tabela\bin\Debug\net10.0\niz5x5 tabela.dll
+D:\programiranje\C#\niz5x5 tabela\bin\Debug\net10.0\niz5x5 tabela.pdb
+D:\programiranje\C#\niz5x5 tabela\obj\Debug\net10.0\niz5x5 tabela.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranje\C#\niz5x5 tabela\obj\Debug\net10.0\niz5x5 tabela.AssemblyInfoInputs.cache
+D:\programiranje\C#\niz5x5 tabela\obj\Debug\net10.0\niz5x5 tabela.AssemblyInfo.cs
+D:\programiranje\C#\niz5x5 tabela\obj\Debug\net10.0\niz5x5 tabela.csproj.CoreCompileInputs.cache
+D:\programiranje\C#\niz5x5 tabela\obj\Debug\net10.0\niz5x5 tabela.dll
+D:\programiranje\C#\niz5x5 tabela\obj\Debug\net10.0\refint\niz5x5 tabela.dll
+D:\programiranje\C#\niz5x5 tabela\obj\Debug\net10.0\niz5x5 tabela.pdb
+D:\programiranje\C#\niz5x5 tabela\obj\Debug\net10.0\niz5x5 tabela.genruntimeconfig.cache
+D:\programiranje\C#\niz5x5 tabela\obj\Debug\net10.0\ref\niz5x5 tabela.dll
+D:\programiranje\C#\niz5x5 tabela\obj\Debug\net10.0\niz5x5 t.CA71A9F9.Up2Date
