@@ -1,0 +1,15 @@
+D:\programiranje\C#\domaci1\obj\Debug\net10.0\domaci1.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranje\C#\domaci1\obj\Debug\net10.0\domaci1.AssemblyInfoInputs.cache
+D:\programiranje\C#\domaci1\obj\Debug\net10.0\domaci1.AssemblyInfo.cs
+D:\programiranje\C#\domaci1\obj\Debug\net10.0\domaci1.csproj.CoreCompileInputs.cache
+D:\programiranje\C#\domaci1\bin\Debug\net10.0\domaci1.exe
+D:\programiranje\C#\domaci1\bin\Debug\net10.0\domaci1.deps.json
+D:\programiranje\C#\domaci1\bin\Debug\net10.0\domaci1.runtimeconfig.json
+D:\programiranje\C#\domaci1\bin\Debug\net10.0\domaci1.dll
+D:\programiranje\C#\domaci1\bin\Debug\net10.0\domaci1.pdb
+D:\programiranje\C#\domaci1\obj\Debug\net10.0\domaci1.dll
+D:\programiranje\C#\domaci1\obj\Debug\net10.0\refint\domaci1.dll
+D:\programiranje\C#\domaci1\obj\Debug\net10.0\domaci1.pdb
+D:\programiranje\C#\domaci1\obj\Debug\net10.0\domaci1.genruntimeconfig.cache
+D:\programiranje\C#\domaci1\obj\Debug\net10.0\ref\domaci1.dll
+D:\programiranje\C#\domaci1\obj\Debug\net10.0\domaci1.csproj.Up2Date
